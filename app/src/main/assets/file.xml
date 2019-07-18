@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<records>
+    <employee>
+        <name>Sachin Tendulkar</name>
+        <salary>50000</salary>
+    </employee>
+    <employee>
+        <name>M S Dhoni</name>
+        <salary>60000</salary>
+    </employee>
+    <employee>
+        <name>Virat Kholi</name>
+        <salary>70000</salary>
+    </employee>
+    <employee>
+        <name>Rajendran Eshwaran</name>
+        <salary>2,00,000$</salary>
+    </employee>
+</records>
